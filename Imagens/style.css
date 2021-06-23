@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.body {
+    background-color:#F6CECE;
+}
+
+
+.center {
+    max-width: 1100px;
+    margin:0 auto;
+    padding:0 2%;
+    display: flex;
+    
+}
+
+.header {
+    background-color: lightpink;
+    padding:20px 0;
+    border-bottom:2px solid lightpink;
+}
+
+.Logo {
+    color: rgb(206, 83, 206);
+}
+.Logo h2{
+    font-weight: normal;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    float:right; width: 50%;
+}
+.Menu a{ 
+    color: rgb(53, 12, 53);
+    font-size: 14px;
+    text-decoration: none;
+    float: inline-start; width: 50px ;
+   
+   
+
+}
+
+.Menu a:hover{
+    color: rgb(167, 56, 167);
+}
+
+
+
+
+
+
+  
